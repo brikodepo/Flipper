@@ -14,7 +14,7 @@ USAGE
 REQUIREMENTS
 Admin privlages are required for pausing keyboard and mouse inputs
 
-https://is.gd/badusbprotect
+https://raw.githubusercontent.com/brikodepo/Flipper/refs/heads/main/BadUSB-Detect-and-Protect/main.ps1
 #>
 
 # Hide the console after monitor starts
